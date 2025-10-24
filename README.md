@@ -172,4 +172,4 @@ Docker_Test_V4/
 
 
 
-**Made with ❤️ by [3002tad](https://github.com/3002tad)**
+**Made with all knowledges by [3002tad](https://github.com/3002tad)**
